@@ -1,0 +1,27 @@
+{
+  "name": "api-in-5",
+  "version": "1.0.0",
+  "description": "An API demo walkthrough in 5 minutes or less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiemer/api-in-5.git"
+  },
+  "keywords": [
+    "node",
+    "restify",
+    "docker",
+    "mongodb",
+    "mongoose",
+    "nodemon"
+  ],
+  "author": "Andrew Siemer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiemer/api-in-5/issues"
+  },
+  "homepage": "https://github.com/asiemer/api-in-5#readme"
+}
